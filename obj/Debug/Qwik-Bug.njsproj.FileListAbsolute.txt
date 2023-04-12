@@ -1,3 +1,0 @@
-C:\Users\veniv\Downloads\qwik\qwik-bug-report\qwik-app\obj\Debug\Qwik-Bug.njsproj.AssemblyReference.cache
-C:\Users\veniv\Downloads\qwik\qwik-bug-report\qwik-app\obj\Debug\Qwik-Bug.njsproj.CoreCompileInputs.cache
-C:\Users\veniv\Downloads\qwik\qwik-bug-report\qwik-app\bin\Microsoft.NodejsTools.WebRole.dll
